@@ -1,0 +1,7 @@
+C:\Users\Holt\source\repos\Algorithms_task_SimonHolt\Algorithms_task_SimonHolt\bin\Debug\Algorithms_task_SimonHolt.exe.config
+C:\Users\Holt\source\repos\Algorithms_task_SimonHolt\Algorithms_task_SimonHolt\bin\Debug\Algorithms_task_SimonHolt.exe
+C:\Users\Holt\source\repos\Algorithms_task_SimonHolt\Algorithms_task_SimonHolt\bin\Debug\Algorithms_task_SimonHolt.pdb
+C:\Users\Holt\source\repos\Algorithms_task_SimonHolt\Algorithms_task_SimonHolt\obj\Debug\Algorithms_task_SimonHolt.csprojAssemblyReference.cache
+C:\Users\Holt\source\repos\Algorithms_task_SimonHolt\Algorithms_task_SimonHolt\obj\Debug\Algorithms_task_SimonHolt.csproj.CoreCompileInputs.cache
+C:\Users\Holt\source\repos\Algorithms_task_SimonHolt\Algorithms_task_SimonHolt\obj\Debug\Algorithms_task_SimonHolt.exe
+C:\Users\Holt\source\repos\Algorithms_task_SimonHolt\Algorithms_task_SimonHolt\obj\Debug\Algorithms_task_SimonHolt.pdb
